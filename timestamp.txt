@@ -1,0 +1,16 @@
+SERVER : hugo server -D
+NEW PAGE : hugo new <page-name>.md
+START MAIL SERVER: node api/contact.js
+
+Day 1 - 1.1, 1.2, 1.3
+Day 2 - 2.1, 2.2, 2.3
+Day 3 - 3.1, 3.2
+Day 4 - 3.3
+Day 5 - 3.4, 3.5
+Day 6 - 3.6
+Day 7 - 3.7, 3.8
+Day 8 - 3.9, 3.10
+Day 9 - 3.11, 3.12, 3.13
+Day 10 - 4.1, 4.2, 4.3 
+Day 11 - 5.1, 5.2
+Day 12 - 6.1, 6.2, 6.3
